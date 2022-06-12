@@ -1,6 +1,6 @@
-# 3dwrx-IYP-VR-360-Cage-for-6x-GoPro
+# 3dwrx-360-Cage-for-GoPro
 
-## The purpose of 3dwrx-IYP-VR-360-Cage-for-6x-GoPro
+## The purpose of 3dwrx-360-Cage-for-GoPro
 This design is a solution for a VR camera mount. It's intended to be printed in high quality and doesn't need any supports. The system is designed to be modular and you will be able to mount any camera you need. Its avoiding any propritrary mounts to avoid license violations and by saying this, its intended to center the camera picture always by specific mount design.
 
 ## What are the core features?
