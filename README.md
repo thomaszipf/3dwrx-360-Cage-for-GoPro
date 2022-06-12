@@ -20,9 +20,13 @@ This design is a solution for a VR camera mount. It's intended to be printed in 
 
 ## How to setup: 
 Just print all the modules with the following quantity:
+
 1 x Part 1
+
 2 x Part 2
+
 1 x Part 1
+
 
 You can also insert screws & nuts to the build in order to increase sustainability.
 Screw everething together. After that print the needed six camera mounts.
